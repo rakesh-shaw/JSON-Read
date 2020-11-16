@@ -8,5 +8,3 @@ Step 2 - Open terminal and execute
          
          i. npm install
          ii. nom start
-         
- Thank You !!
