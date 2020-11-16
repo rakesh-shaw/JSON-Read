@@ -1,6 +1,6 @@
 # Json-Read
 
-It's a simple app to read Data stored in locally in a JSON file. 
+It's a simple React app to read Data stored in locally in a JSON file. 
 
 Step 1 - Download the Project
 
